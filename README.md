@@ -1,4 +1,5 @@
-My eigth project was my first venture into using SQL and focused on practice writing SQL statements using aggregate functions and subqueries,
+My eigth project was my first venture into using SQL and focused on practice writing SQL statements using aggregate functions and subqueries.
+
 As well as building a small database to hold details of doctors’ surgeries’ patients.
 
 The SQL file incldudes the answers for the SQL queries I submitted for the following:
